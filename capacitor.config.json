@@ -1,0 +1,9 @@
+{
+  "appId": "com.budgetbacker.app",
+  "appName": "BudgetBacker",
+  "webDir": "dist",
+  "backgroundColor": "#12202B",
+  "android": {
+    "backgroundColor": "#12202B"
+  }
+}
